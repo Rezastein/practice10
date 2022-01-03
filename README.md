@@ -56,6 +56,7 @@ print(txt[2:5])
 ```
 
 **4. Bagaimana cara menghilangkan spasi pada string ?**
+<br>
 cara menghilangkan spasi pada string yaitu menggunakan method **replace()**
 <br>
 contoh:
@@ -69,6 +70,7 @@ methode **replace()** mengganti semua kemunculan string lama dengan yang baru at
 <br>
 <br>
 **5.Bagaimana cara menguah string menjadi huruf besar atau hurup kecil ?**
+<br>
 cara merubah hurup besar/kecil pada string yaitu menggunakan methode:
 
 - **upper()** untuk memperbesar
