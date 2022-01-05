@@ -28,6 +28,7 @@
 ## **main.py**
 
 **OUTPUT PROGRAM**
+<br>
 ![eza](media/output.png)
 
 
